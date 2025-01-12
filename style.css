@@ -10,7 +10,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #881212;
+    background-color: #d38686;
     color: white;
     overflow-x: hidden;
     transition: 0.5s;
@@ -61,7 +61,7 @@ body {
 .open-btn {
     font-size: 20px;
     cursor: pointer;
-    background-color: #ce1313;
+    background-color: #695b5b;
     color: white;
     padding: 10px 20px;
     border: none;
