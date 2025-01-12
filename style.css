@@ -1,11 +1,9 @@
-/* General Reset */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f8f8f8;
 }
 
-/* Sidebar Styles */
 .sidebar {
     height: 100%;
     width: 0;
@@ -55,7 +53,6 @@ body {
     color: #0d0d0d;
 }
 
-/* Main Content */
 .main-content {
     padding: 20px;
     margin-left: 20px;
